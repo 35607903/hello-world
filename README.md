@@ -1,2 +1,3 @@
 # hello-world
-a test repository
+a repository for test
+just soso
